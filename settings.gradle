@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+<<<<<<< HEAD
 rootProject.name = "Food"
+=======
+rootProject.name = "My First Application Android"
+>>>>>>> bde4fb48c42e3a6e8a5095ae1f128e30166899bc
 include ':app'
